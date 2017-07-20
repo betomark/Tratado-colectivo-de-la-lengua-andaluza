@@ -5,7 +5,7 @@ El objetivo de este trabajo es establecer de manera consensuada una gramática a
 
 ## Objetivos
 - Establecer un análisis del habla andaluza con todas sus variantes. El cual será el soporte de las reglas.
-- Definir una escritura acorde a todas sus variantes. La cual se obtendrá de la manera más optima atendiendo a la fonética andaluza y la facilidad de escritura (Tanto natural como digital basada en teclados castellanos)
+- Definir una escritura acorde a todas sus variantes. La cual se obtendrá de la manera más optima atendiendo a la fonética andaluza y la facilidad de escritura (Tanto natural como digital basada en teclados castellanos).
 - Explicitar la morfología del Andaluz.
 - Reglar la sintaxis del Andaluz.
 - Registrar en la medida de lo posible el léxico de todas las variantes del Andaluz de manera estructurada.
@@ -31,3 +31,6 @@ Porque es una herramienta perfecta para acometer proyectos colaborativos y abier
 ### Procedimiento de colaboración
 #### Solicitud de edición
 #### Proceso de aceptación
+
+## Tutoriales
+### Lenguaje de texto Markdown
